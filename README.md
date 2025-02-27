@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there! 👋 I'm Chan Myae Aung @ Shar Thu.
 
-<!--
-**sharthu/sharthu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Technical Trainer with 7+ years of experience in Networking, Linux, Office 365, AWS, Cloud Engineering, and Cisco. As the Founder & Director of T4B Co., Ltd., I have led network infrastructure projects for hotels, microfinance datacenters, INGOs, factories, and corporate businesses. I specialize in designing, implementing, and managing secure & scalable IT solutions. Currently, I oversee business strategy and technology solutions at T4B Co., Ltd., ensuring innovation and growth in the IT industry.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Cloud Platforms:** AWS, Digital Ocean
+- **Infrastructure as Code:** Terraform, CloudFormation
+- **Containerization:** Docker, Kubernetes
+- **Continuous Integration/Continuous Deployment:** Jenkins, GitHub Actions, GitLab CI
+- **Configuration Management:** Ansible
+- **Monitoring and Logging:** ELK Stack, Prometheus, Grafana
+- **Scripting/Programming:** Bash, Python
+
+
+## 📫 Let's Connect
+
+- LinkedIn: [Shar Thu](https://www.linkedin.com/in/sharthu/)
+- Email: [Shar Thu](sharthu@t4bcompany.com)
+- Facebook: [Shar Thu](https://www.facebook.com/share/15igSts7u2/?mibextid=LQQJ4d)
+
+
+Feel free to explore my repositories to see what I'm currently working on. If you have any questions or want to collaborate, don't hesitate to reach out!
+
+Happy coding! 🚀
