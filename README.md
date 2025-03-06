@@ -15,6 +15,7 @@ I am a Technical Trainer with 7+ years of experience in Networking, Linux, Offic
 
 ## 📫 Let's Connect
 
+- Youtube: [Tech with Shar Thu](https://www.youtube.com/@sharthu31)
 - LinkedIn: [Shar Thu](https://www.linkedin.com/in/sharthu/)
 - Email: [Shar Thu](sharthu@t4bcompany.com)
 - Facebook: [Shar Thu](https://www.facebook.com/share/15igSts7u2/?mibextid=LQQJ4d)
